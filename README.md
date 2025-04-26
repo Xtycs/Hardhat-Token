@@ -45,7 +45,7 @@ hardhat-token/
 ├── hardhat.config.js      # Hardhat configuration file
 ├── package-lock.json      # npm locked dependency versions
 ├── package.json           # Project metadata and dependencies
-└── README.md              # Project description file (this file)
+└── README.md              
 ```
 
 *   **`.github/workflows/`**: Contains GitHub Actions workflow configurations for automation.
