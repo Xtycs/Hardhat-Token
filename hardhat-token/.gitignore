@@ -1,0 +1,10 @@
+.env
+.key
+token2.sol
+
+# Node
+node_modules/
+
+# Hardhat build cache
+cache/
+artifacts/
